@@ -1,0 +1,15 @@
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\bin\Debug\net7.0\GarysWholesale.exe
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\bin\Debug\net7.0\GarysWholesale.deps.json
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\bin\Debug\net7.0\GarysWholesale.runtimeconfig.json
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\bin\Debug\net7.0\GarysWholesale.dll
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\bin\Debug\net7.0\GarysWholesale.pdb
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.csproj.AssemblyReference.cache
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.AssemblyInfoInputs.cache
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.AssemblyInfo.cs
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.csproj.CoreCompileInputs.cache
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.dll
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\refint\GarysWholesale.dll
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.pdb
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\GarysWholesale.genruntimeconfig.cache
+C:\Users\Amanda Asgari-Rad\workspace\GarysWholesale\obj\Debug\net7.0\ref\GarysWholesale.dll
